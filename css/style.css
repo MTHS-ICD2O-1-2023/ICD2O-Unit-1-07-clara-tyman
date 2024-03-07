@@ -1,4 +1,33 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Clara Tyman
+* Created on: Mar 2024
 * This file contains the CSS for index.html
 */
+
+.mdl-layout__content {
+  padding-left: 20pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+}
+
+.page-content {
+  padding-left: 100px
+}
+
+.mdl-layout-title {
+  justify-content: center;
+}
+
+.mdl-ripple {
+  background: #000;
+  opacity: 0.001;
+}
+
+body {
+  background-color: cornflowerblue;
+}
+
+p {
+  color: white;
+  font-size: 1.5rem;
+  padding-top: 5pt;
+}
